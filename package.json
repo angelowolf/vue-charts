@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "amcharts3": "github:amcharts/amcharts3",
-    "my-awesome-plugin": "file:../my-awesome-plugin",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0"
   },
